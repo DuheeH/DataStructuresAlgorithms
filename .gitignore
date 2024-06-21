@@ -1,0 +1,6 @@
+.DS_Store
+txtfiles/
+pngfiles/
+*.zip
+*.iml
+.idea/
