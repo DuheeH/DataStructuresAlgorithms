@@ -4,4 +4,4 @@ pngfiles/
 *.zip
 *.iml
 .idea/
-*.class
+hello/
